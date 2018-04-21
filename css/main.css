@@ -3,11 +3,14 @@ body > div {
   width: 30em;
   height:30em;
   background-color: #C67AE5;
+  padding: 7.5em;
+  box-sizing: border-box;
+
 }
 body > div > div{
- position: relative;
+ /*position: relative;
   left:7.5em;
-  top: 7.5em;
+  top: 7.5em;*/
   width: 15em;
   height:15em;
   background-color: #7A3497;
