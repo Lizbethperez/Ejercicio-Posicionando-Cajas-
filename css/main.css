@@ -1,23 +1,24 @@
 body > div {
-
-  width: 30em;
-  height:30em;
   background-color: #C67AE5;
-  padding: 7.5em;
   box-sizing: border-box;
-
+  height:30em;
+  padding: 7.5em;
+  width: 30em;
 }
-body > div > div{
- /*position: relative;
-  left:7.5em;
-  top: 7.5em;*/
-  width: 15em;
-  height:15em;
+
+
+body > div > div {
   background-color: #7A3497;
+  height:15em;
+  width: 15em;
 }
- body > div > div > div {
 
-  width: 7.5em;
-  height: 7.5em;
+ body > div > div > div {
   background-color: #473D4B;
+  height: 7.5em;
+  left: -7.5em;
+  position: relative;
+  top : -7.5em;
+  width: 7.5em;
+
 }
