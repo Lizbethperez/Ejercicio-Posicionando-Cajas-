@@ -1,0 +1,20 @@
+body > div {
+
+  width: 30em;
+  height:30em;
+  background-color: #C67AE5;
+}
+body > div > div{
+ position: relative;
+  left:7.5em;
+  top: 7.5em;
+  width: 15em;
+  height:15em;
+  background-color: #7A3497;
+}
+ body > div > div > div {
+
+  width: 7.5em;
+  height: 7.5em;
+  background-color: #473D4B;
+}
